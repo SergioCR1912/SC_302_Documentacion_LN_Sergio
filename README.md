@@ -1,2 +1,2 @@
-# sc_302_documentacion
+# SC_302_Documentacion_LN_Sergio
 documentacion del software
